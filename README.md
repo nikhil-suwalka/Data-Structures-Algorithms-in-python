@@ -1,5 +1,5 @@
 # python
 Some of my python programs
 
-`1. osInfo.py` - Displays some information about the OS on which you are running this script.\n
+`1. osInfo.py` - Displays some information about the OS on which you are running this script.__
 `2. Selection_Sort.py` - Selection sort using python.
